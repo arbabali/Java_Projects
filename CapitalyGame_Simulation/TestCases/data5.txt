@@ -1,0 +1,13 @@
+8
+property
+property
+lucky 700
+property
+service 1100
+service 1100
+lucky 600
+property
+3
+arbu greedy
+abn greedy
+arbab greedy

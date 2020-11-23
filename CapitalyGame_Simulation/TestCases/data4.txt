@@ -1,0 +1,13 @@
+6
+property
+service 600
+lucky 1000
+service 1000
+service 600
+property
+4
+one carefull
+two carefull
+three greedy
+four  carefull
+five  tactical

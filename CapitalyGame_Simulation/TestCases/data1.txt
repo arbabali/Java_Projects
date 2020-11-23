@@ -1,0 +1,12 @@
+6
+service 700
+lucky 1000
+property 
+property 
+lucky 1000
+service 700
+4
+Max greedy
+Arbab carefull
+Frank tactical
+Messi greedy

@@ -1,0 +1,15 @@
+7
+service 500
+lucky 1200
+lucky 1200
+property
+service 500
+property
+lucky 1200
+6
+John carefull
+Gabriel greedy
+Ali carefull
+Niki tactical
+Ahmed greedy
+Umaim greedy

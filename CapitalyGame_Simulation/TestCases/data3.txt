@@ -1,0 +1,12 @@
+7
+service 900
+lucky 1500
+property
+lucky 1500
+service 900
+property
+service 900
+3
+dawood tactical
+Mena greedy
+adi carefull
