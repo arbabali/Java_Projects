@@ -19,7 +19,7 @@ if it is ended, and it has to show the name of the winner in a message box (if t
 
 # SNIPSHOTS OF IMPLEMENTATION 
 
-![Image of WINDOWS](blob:null/a12ed7cd-d623-4f76-8840-f1ab5ee2f919)
+
 
 
 ## [DISCRIPTION] (https://github.com/arbabali/Java_Projects/blob/main/Hunting_2DGame/Hunting2DGame.pdf)
