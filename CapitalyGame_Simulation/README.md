@@ -3,9 +3,9 @@ Simulate  a  simplified  Capitaly  game.  There  are  some  players  with  diffe
 
 
 # FEATURES 
-[x] Used a Collection to store the objects of classes derived from the same super class.
-[x] Validation the data  from the user; throw Exception for invalid data, and *handle the thrown Exceptions*
-[x] The testing is Done through JUNIT Test.
+* Used a Collection to store the objects of classes derived from the same super class.
+* Validation the data  from the user; throw Exception for invalid data, and *handle the thrown Exceptions*
+* The testing is Done through JUNIT Test.
 
 # UML DIAGRAM
 ![Image of UML](https://github.com/arbabali/Java_Projects/blob/main/CapitalyGame_Simulation/classDiagram.png)
