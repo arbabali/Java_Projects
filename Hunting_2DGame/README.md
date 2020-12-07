@@ -12,14 +12,9 @@ if it is ended, and it has to show the name of the winner in a message box (if t
 * Multilayer architecture *(MVC)*.
 * Used controls to make the GUI of the game.
 
-# UML 
-
 # UML DIAGRAM
 ![Image of UML](https://raw.githubusercontent.com/arbabali/Java_Projects/main/Hunting_2DGame/class%20diagram.jpeg)
 
 # SNIPSHOTS OF IMPLEMENTATION 
-
-
-
 
 ## [DISCRIPTION] (https://github.com/arbabali/Java_Projects/blob/main/Hunting_2DGame/Hunting2DGame.pdf)
